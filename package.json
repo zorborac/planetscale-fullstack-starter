@@ -31,5 +31,11 @@
 		"vite": "^4.2.0",
 		"vitest": "^0.25.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": 
+	{
+		"@auth/core": "^0.5.1",
+		"@auth/sveltekit": "^0.3.0",
+		"@planetscale/database": "1.6.0"
+	}
 }
