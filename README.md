@@ -7,9 +7,10 @@ USE AT YOUR OWN RISK, this is a rough draft of what has been working for me on o
 
 ===
 NOTE:
-@planetscale/daabase is currently pinned at 1.6.0 due to an issue when running on Cloudflare Pages
+@planetscale/database is currently pinned at 1.6.0 due to an issue when running on Cloudflare Pages
 ===
 
+^^ I'll add the issue once I find it again. 
 
 ```bash
 # create a new project in the current directory
