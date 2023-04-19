@@ -1,10 +1,15 @@
-# create-svelte
+Planetscale fullstack starter, for use on Cloudflare Pages
+Includes a rudimentary Planetscale database adapter for use with the @auth/core / SvelteKit packages.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+I plan to spin tthat off into its own repo soon. 
 
-## Creating a project
+USE AT YOUR OWN RISK, this is a rough draft of what has been working for me on other projects. 
 
-If you're seeing this, you've probably already done this step. Congrats!
+===
+NOTE:
+@planetscale/daabase is currently pinned at 1.6.0 due to an issue when running on Cloudflare Pages
+===
+
 
 ```bash
 # create a new project in the current directory
